@@ -14,6 +14,7 @@ Hi!这里是Miaoyww
 + Minecraft
 + Apex
 + CS:GO
++ TTF2
 
 ## 会啥
 
@@ -25,4 +26,4 @@ Hi!这里是Miaoyww
 
 ## 当前我在干什么
 
-+ NcmPlayer: <https://github.com/Miaoywww/NcmPlayer>
++ NonsPlayer: <https://github.com/Miaoywww/NonsPlayer>
