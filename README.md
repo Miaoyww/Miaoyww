@@ -1,12 +1,10 @@
+# Miaoyww
+
 <div style="display:flex;align-self: center">
 
 ![Miaoyww's Github Stats](https://github-readme-stats.vercel.app/api?username=miaoyww&show_icons=true&theme=transparent)
 
-<div style="align-self: center;margin-left: 30px">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaoyww&layout=compact&hide=html,CSS,javascript)
-
-</div>
 
 </div>
 
