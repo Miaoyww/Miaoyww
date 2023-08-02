@@ -1,29 +1,19 @@
-![Miaoyww's Github Stats](https://github-readme-stats.vercel.app/api?username=miaoyww&show_icons=true&theme=radical)
+<div style="display:flex;align-self: center">
 
-Hi!这里是Miaoyww
+![Miaoyww's Github Stats](https://github-readme-stats.vercel.app/api?username=miaoyww&show_icons=true&theme=transparent)
 
-我会在我的Github仓库中发布我写的一些乱七八糟的东西
+<div style="align-self: center;margin-left: 30px">
 
-#### 在哪可以找到我?
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaoyww&layout=compact&hide=html,CSS,javascript)
 
-+ Bilibili: [Miaoyww](https://space.bilibili.com/435970102)
-+ Discord: Miaomiaoywww#5861
+</div>
 
-#### 主要玩啥
+</div>
 
-+ Minecraft
-+ Apex
-+ CS:GO
-+ TTF2
+## This is what i am doing recently
 
-## 会啥
-
-+ Python
-+ C#
-+ Vue
-+ Minecraft DataPack
+[![NonsPlayer](https://github-readme-stats.vercel.app/api/pin/?username=miaoyww&repo=NonsPlayer)](https://github.com/Miaoyww/NonsPlayer)
 
 
-## 当前我在干什么
-
-+ NonsPlayer: <https://github.com/Miaoywww/NonsPlayer>
+Hello this is Miaoyww, A self-taught programmer.Well beacuse i am self-taught, so as you can see my code is not very
+good, but i will try my best to make it better!.
