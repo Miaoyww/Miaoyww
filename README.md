@@ -4,8 +4,6 @@
 
 ![Miaoyww's Github Stats](https://github-readme-stats.vercel.app/api?username=miaoyww&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miaoyww&layout=compact&hide=html,CSS,javascript)
-
 </div>
 
 ## This is what i am doing recently
